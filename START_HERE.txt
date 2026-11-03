@@ -1,0 +1,8 @@
+FLASHCARD ACADEMY · CREATED BY LISH
+
+MULTI-PAGE PHONE VERSION
+Open home.html to begin. Use the bottom navigation to move between separate HTML pages: Dashboard, Flashcards, Terminology, Quiz Centre, Scoreboard and Study Guide.
+
+Progress and scores are stored in this browser on this device (localStorage). Keep all HTML files together in the same folder.
+
+This version uses the existing 199 flashcard entries; it is not yet reconciled against every numbered item in the pasted 229-number source list.
